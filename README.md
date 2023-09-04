@@ -8,7 +8,7 @@ Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías
 
 ¡Gracias por visitar mi perfil! 
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
 
 <!--
 **naviomaya/naviomaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
