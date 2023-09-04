@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, mi nombre es Edu 👋
 
 <!--
 **naviomaya/naviomaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
