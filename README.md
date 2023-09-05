@@ -1,6 +1,6 @@
 ### Hola, mi nombre es Edu 👋
 
-Futuro desarrollador full stack y Blockchain provinente de Barcelona.
+Futuro desarrollador full stack y Blockchain.
 
 <img src="https://github.com/naviomaya/naviomaya/blob/main/repogit%20image.png">
 
