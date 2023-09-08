@@ -2,7 +2,7 @@
 
 Futuro desarrollador full stack y Blockchain.
 
-<img src="https://github.com/naviomaya/naviomaya/blob/main/repogit2.png">
+<img src="https://github.com/naviomaya/naviomaya/blob/main/Full%20stack%20developer.png">
 
 En noviembre de 2022, comencé mi emocionante viaje hacia el mundo de la programación. Mi motivación fue clara: convertirme en un desarrollador Full Stack y especializarme en Blockchain. Este emocionante viaje lo inicié de la mano del máster de Conquer Blocks.
 
