@@ -8,6 +8,26 @@ En noviembre de 2022, comencé mi emocionante viaje hacia el mundo de la program
 
 Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías y estoy ansioso por explorar sus infinitas posibilidades.
 
+## Tecnologias utilizadas
+<img alt="Static Badge" src="https://img.shields.io/badge/%20-Python-blue?logo=Python&logoColor=blue&labelColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-red?logo=html5&labelColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white?logo=CSS3&labelColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-yellow?logo=javascript&labelColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-blue?logo=mysql&labelColor=black">
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/REACT-blue?logo=react&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-green?logo=Node.js&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/DJANGO-white?logo=Django&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-white?logo=java&labelColor=black">
+
+
+
+
+
+
+
+
+
+
+
+
+
 ¡Gracias por visitar mi perfil! 
 
 
