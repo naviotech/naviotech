@@ -19,7 +19,7 @@ Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías
 ## Contáctame en:
 <img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-pink?logo=instagram&labelColor=black&link=https%3A%2F%2Fwww.instagram.com%2Fedumayft%2F">
 <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-white?logo=linkedin&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feduardo-navio-maya-406b35189%2F">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/naviomaya%40gmail.com-%20black?logo=GMAIL&labelColor=black&color=white">
 
 <hr>
 
