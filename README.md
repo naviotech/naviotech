@@ -1,10 +1,10 @@
 ### Hola, mi nombre es Edu 👋
 
-Futuro desarrollador full stack y Blockchain.
+Futuro desarrollador full stack.
 
 <img src="https://github.com/naviomaya/naviomaya/blob/main/Full%20stack%20developer.jpg">
 
-En noviembre de 2022, comencé mi emocionante viaje hacia el mundo de la programación. Mi motivación fue clara: convertirme en un desarrollador Full Stack y especializarme en Blockchain. Este emocionante viaje lo inicié de la mano del máster de Conquer Blocks.
+En noviembre de 2022, comencé mi emocionante viaje hacia el mundo de la programación. Mi motivación fue clara: convertirme en un desarrollador Full Stack. Este emocionante viaje lo inicié de la mano del máster de Conquer Blocks.
 
 Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías y estoy ansioso por explorar sus infinitas posibilidades.
 
