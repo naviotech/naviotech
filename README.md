@@ -14,7 +14,7 @@ Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías
 <img alt="Static Badge" src="https://img.shields.io/badge/REACT-blue?logo=react&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-green?logo=Node.js&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/DJANGO-white?logo=Django&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-white?logo=java&labelColor=black">
+
 
 ## Contáctame en:
 <img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-pink?logo=instagram&labelColor=black&link=https%3A%2F%2Fwww.instagram.com%2Fedumayft%2F">
