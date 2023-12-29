@@ -14,6 +14,7 @@ Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías
 <img alt="Static Badge" src="https://img.shields.io/badge/REACT-blue?logo=react&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-green?logo=Node.js&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/DJANGO-white?logo=Django&labelColor=black">
+<img alt ="Static Badge" src="https://img.shields.io/badge/SASS-SASS?style=sass&logo=sass&labelColor=pink&color=red">
 
 
 ## Contáctame en:
