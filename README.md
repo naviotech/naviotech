@@ -22,9 +22,9 @@ Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías
 
 
 ## Contáctame en:
-[![INSTAGRAM](https://img.shields.io/badge/edumayft-edumayft?logo=instagram&labelColor=black&color=white)](https://instagram.com/edumayft)
-[![LINKEDIN](https://img.shields.io/badge/Eduardo%20Nav%C3%ADo%20Maya-%20Eduardo%20Nav%C3%ADo%20Maya?logo=linkedin&labelColor=black&color=white)](https://www.linkedin.com/in/naviomaya)
-[![GMAIL](https://img.shields.io/badge/naviomaya%40gmail.com-%20black?logo=GMAIL&labelColor=black&color=white)](mailto:naviomaya@gmail.com)
+[![INSTAGRAM](https://img.shields.io/badge/%20edumayft%20-%20%20DISCORD?style=social&logo=instagram&labelColor=black&color=white)](https://instagram.com/edumayft)<br>
+[![LINKEDIN](https://img.shields.io/badge/Eduardo%20Navio%20Maya%20-%20%20DISCORD?style=social&logo=LINKEDIN&labelColor=black&color=white)](https://www.linkedin.com/in/naviomaya)<br>
+[![GMAIL](https://img.shields.io/badge/naviomaya%40gmail.com%20-%20%20DISCORD?style=social&logo=GMAIL&labelColor=black&color=white)](mailto:naviomaya@gmail.com)<br>
 [![DISCORD](https://img.shields.io/badge/%20edumayft%20-%20%20DISCORD?style=social&logo=discord&labelColor=black&color=white)](https://discord.com/users/edumayft)
 
 <hr>
