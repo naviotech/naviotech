@@ -12,12 +12,11 @@ Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías
 [![Python](https://img.shields.io/badge/%20-Python-blue?logo=Python&logoColor=blue&labelColor=black)]()
 [![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5&labelColor=black)]()
 [![CSS](https://img.shields.io/badge/CSS-white?logo=CSS3&labelColor=black)]()
-[![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&labelColor=black)]()
+[![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&labelColor=black)]()<br>
 [![MYSQL](https://img.shields.io/badge/MYSQL-blue?logo=mysql&labelColor=black)]()
-<br>
 [![REACT](https://img.shields.io/badge/REACT-blue?logo=react&labelColor=black)]()
 [![NODE.JS](https://img.shields.io/badge/NODE.JS-green?logo=Node.js&labelColor=black)]()
-[![DJANGO](https://img.shields.io/badge/DJANGO-white?logo=Django&labelColor=black)]()
+[![DJANGO](https://img.shields.io/badge/DJANGO-white?logo=Django&labelColor=black)]()<br>
 [![SASS](https://img.shields.io/badge/SASS-SASS?style=sass&logo=sass&labelColor=pink&color=red)]()
 
 
