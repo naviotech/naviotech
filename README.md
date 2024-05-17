@@ -2,7 +2,7 @@
 
 Futuro desarrollador full stack.
 
-<img src="https://github.com/Mayadevv/Mayadevv/blob/main/banner.jpg">
+<img src="https://github.com/naviotech/naviotech/blob/main/bannergithub.jpg">
 
 En noviembre de 2022, comencé mi emocionante viaje hacia el mundo de la programación. Mi motivación fue clara: convertirme en un desarrollador Full Stack. Este emocionante viaje lo inicié de la mano del máster de Conquer Blocks.
 
