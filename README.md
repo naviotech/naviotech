@@ -7,15 +7,31 @@ Futuro desarrollador full stack.
 Soy Técnico Superior en Nutrición y Dietética, actualmente en transición hacia el mundo del desarrollo web. Después de trabajar en nutrición y ayudar a muchas personas a mejorar su salud, descubrí mi pasión por la tecnología y decidí dar un giro a mi carrera. Llevo un año y medio estudiando desarrollo web y he encontrado en este campo una fuente constante de desafíos y aprendizaje.
 
 ## Tecnologías utilizadas
-[![Python](https://img.shields.io/badge/%20-Python-blue?logo=Python&logoColor=blue&labelColor=black)]()
-[![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5&labelColor=black)]()
-[![CSS](https://img.shields.io/badge/CSS-white?logo=CSS3&labelColor=black)]()
-[![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&labelColor=black)]()<br>
-[![MYSQL](https://img.shields.io/badge/MYSQL-blue?logo=mysql&labelColor=black)]()
-[![REACT](https://img.shields.io/badge/REACT-blue?logo=react&labelColor=black)]()
-[![NODE.JS](https://img.shields.io/badge/NODE.JS-green?logo=Node.js&labelColor=black)]()
-[![DJANGO](https://img.shields.io/badge/DJANGO-white?logo=Django&labelColor=black)]()<br>
-[![SASS](https://img.shields.io/badge/SASS-SASS?style=sass&logo=sass&labelColor=pink&color=red)]()
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> 
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+</div>
+
 
 
 ## Contáctame en:
