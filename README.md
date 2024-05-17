@@ -4,9 +4,7 @@ Futuro desarrollador full stack.
 
 <img src="https://github.com/naviotech/naviotech/blob/main/bannergithub.jpg" width="900" height="250">
 
-En noviembre de 2022, comencé mi emocionante viaje hacia el mundo de la programación. Mi motivación fue clara: convertirme en un desarrollador Full Stack. Este emocionante viaje lo inicié de la mano del máster de Conquer Blocks.
-
-Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías y estoy ansioso por explorar sus infinitas posibilidades.
+Soy Técnico Superior en Nutrición y Dietética, actualmente en transición hacia el mundo del desarrollo web. Después de trabajar en nutrición y ayudar a muchas personas a mejorar su salud, descubrí mi pasión por la tecnología y decidí dar un giro a mi carrera. Llevo un año y medio estudiando desarrollo web y he encontrado en este campo una fuente constante de desafíos y aprendizaje.
 
 ## Tecnologías utilizadas
 [![Python](https://img.shields.io/badge/%20-Python-blue?logo=Python&logoColor=blue&labelColor=black)]()
