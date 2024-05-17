@@ -24,7 +24,7 @@ Cada día, adquiero nuevos conocimientos sobre estas impresionantes tecnologías
 
 [![LINKEDIN](https://img.shields.io/badge/Eduardo%20Navio%20Maya%20-%20%20DISCORD?style=social&logo=LINKEDIN&labelColor=black&color=white)](https://www.linkedin.com/in/naviomaya)<br>
 [![GMAIL](https://img.shields.io/badge/naviomaya%40gmail.com%20-%20%20DISCORD?style=social&logo=GMAIL&labelColor=black&color=white)](mailto:naviomaya@gmail.com)<br>
-[![DISCORD](https://img.shields.io/badge/%20edumayft%20-%20%20DISCORD?style=social&logo=discord&labelColor=black&color=white)](https://discord.com/users/edu_navio)
+[![DISCORD](https://img.shields.io/badge/%20edu_navio%20-%20%20DISCORD?style=social&logo=discord&labelColor=black&color=white)](https://discord.com/users/edu_navio)
 
 <hr>
 
