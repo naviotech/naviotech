@@ -2,7 +2,7 @@
 
 Futuro desarrollador full stack.
 
-<img src="https://github.com/naviotech/naviotech/blob/main/bannergithub.jpg" width="900" height="250">
+<img src="https://github.com/naviotech/naviotech/blob/main/Eduardo%20Navio%20banner.jpg">
 
 Soy Técnico Superior en Nutrición y Dietética, actualmente en transición hacia el mundo del desarrollo web. Después de trabajar en nutrición y ayudar a muchas personas a mejorar su salud, descubrí mi pasión por la tecnología y decidí dar un giro a mi carrera. Llevo un año y medio estudiando desarrollo web y he encontrado en este campo una fuente constante de desafíos y aprendizaje.
 
