@@ -32,6 +32,11 @@ Soy Técnico Superior en Nutrición y Dietética, actualmente en transición hac
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
 </div>
 
+## Mi GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=naviotech&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
+
+## Lenguajes Más Utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naviotech&layout=compact&theme=chartreuse-dark)
 
 
 ## Contáctame en:
