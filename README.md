@@ -1,4 +1,4 @@
-### Hola, mi nombre es Edu 👋
+### Hola, mi nombre es Edu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 Futuro desarrollador full stack.
 
@@ -6,7 +6,7 @@ Futuro desarrollador full stack.
 
 Soy Técnico Superior en Nutrición y Dietética, actualmente en transición hacia el mundo del desarrollo web. Después de trabajar en nutrición y ayudar a muchas personas a mejorar su salud, descubrí mi pasión por la tecnología y decidí dar un giro a mi carrera. Llevo un año y medio estudiando desarrollo web y he encontrado en este campo una fuente constante de desafíos y aprendizaje.
 
-## Tecnologías utilizadas
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tecnologías utilizadas
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
 </div>
@@ -32,14 +32,14 @@ Soy Técnico Superior en Nutrición y Dietética, actualmente en transición hac
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
 </div>
 
-## Mi GitHub Stats
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Mi GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naviotech&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
 
-## Lenguajes Más Utilizados
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Lenguajes Más Utilizados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naviotech&layout=compact&theme=chartreuse-dark)
 
 
-## Contáctame en:
+## Conecta conmigo en:
 
 [![LINKEDIN](https://img.shields.io/badge/Eduardo%20Navio%20Maya%20-%20%20DISCORD?style=social&logo=LINKEDIN&labelColor=black&color=white)](https://www.linkedin.com/in/naviomaya)<br>
 [![GMAIL](https://img.shields.io/badge/naviomaya%40gmail.com%20-%20%20DISCORD?style=social&logo=GMAIL&labelColor=black&color=white)](mailto:naviomaya@gmail.com)<br>
@@ -47,10 +47,15 @@ Soy Técnico Superior en Nutrición y Dietética, actualmente en transición hac
 
 <hr>
 
-¡Gracias por visitar mi perfil! 
+## 🐍 Evolución de Commits en Movimiento
 
+<div align="center">
+  <a href="https://github.com/Adityakanoi2001/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-
+## **Gracias por visitar mi perfil!**
 <!--
 **naviomaya/naviomaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
