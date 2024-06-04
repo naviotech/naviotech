@@ -42,6 +42,11 @@ Como objetivo final, es llegar a convertirme en un buen profesional que desempe√
 
 
 ## Conecta conmigo en:
+<div>
+  <a href="https://www.linkedin.com/in/naviomaya">
+  <img src="https://img.shields.io/badge/Eduardo%20Navio%20Maya%20-%20%20DISCORD?style=social&logo=LINKEDIN&labelColor=black&color=white"
+       alt="linkedin" /></a>
+</div>
 
 [![LINKEDIN](https://img.shields.io/badge/Eduardo%20Navio%20Maya%20-%20%20DISCORD?style=social&logo=LINKEDIN&labelColor=black&color=white)](https://www.linkedin.com/in/naviomaya)<br>
 [![GMAIL](https://img.shields.io/badge/naviomaya%40gmail.com%20-%20%20DISCORD?style=social&logo=GMAIL&labelColor=black&color=white)](mailto:naviomaya@gmail.com)<br>
