@@ -52,7 +52,7 @@ Como objetivo final, es llegar a convertirme en un buen profesional que desempe�
 ## 🐍 Evolución de Commits en Movimiento
 
 <div align="center"> 
-  <img src="https://github.com/naviotech/naviotech/blob/main/grid-snake.svg"
+  <img src="https://github.com/naviotech/naviotech/blob/main/grid-snake.svg">
 </div>
 
 ## **Gracias por visitar mi perfil!**
