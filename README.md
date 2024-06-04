@@ -1,6 +1,6 @@
 # Hola, mi nombre es Edu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Futuro desarrollador full stack.
+
 
 <img src="https://github.com/naviotech/naviotech/blob/main/Eduardo%20Navio%20banner.jpg">
 
