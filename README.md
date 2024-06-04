@@ -5,7 +5,9 @@
 <img src="https://github.com/naviotech/naviotech/blob/main/Eduardo%20Navio%20banner.jpg">
 
 Soy Técnico Superior en Nutrición y Dietética, actualmente en transición hacia el mundo del desarrollo web. Después de trabajar en nutrición y ayudar a muchas personas a mejorar su salud, descubrí mi pasión por la tecnología y decidí dar un giro a mi carrera. Llevo un año y medio estudiando desarrollo web y he encontrado en este campo una fuente constante de desafíos y aprendizaje.
-
+## 🌟 Objetivos
+Actualmente mi objetivo es seguir progresando y convertirme en especialista del desarrollo frontend para ofrecer la mejor calidad a la funcionalidad de la web y crear buenas experiancias de usuario, y posteriormente empezar a indagar en la parte del backend y de esta manera construir aplicaciones completas gracias a los conocimientos solidos adquiridos a lo largo del tiempo. 
+Como objetivo final, es llegar a convertirme en un buen profesional que desempeñe de manera eficiente todas las areas del desarrollo web, para ello, los mejores amigos que me llevarán de la mano a conseguir tal logro son: la constancia, disciplina y el tiempo.
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tecnologías utilizadas
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
